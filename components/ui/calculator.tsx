@@ -31,7 +31,7 @@ export default function Calculator() {
         setDisplayValue(displayValue.slice(0, -1));
     };
 
-    const buttonClass = "bg-blue-500 text-white text-xl rounded-full hover:bg-blue-600 active:bg-blue-700";
+    const buttonClass = "bg-sky-950 text-white text-xl rounded-full hover:bg-blue-800 active:bg-blue-900";
     const orangeButtonClass = "bg-orange-500 text-white text-xl rounded-full hover:bg-orange-600 active:bg-orange-500";
 
     return (
