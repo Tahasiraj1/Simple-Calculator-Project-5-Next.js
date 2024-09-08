@@ -32,7 +32,7 @@ export default function Calculator() {
     };
 
     const buttonClass = "bg-gray-700 text-white text-xl rounded-full active:bg-gray-700";
-    const orangeButtonClass = "bg-orange-500 text-white text-xl rounded-full hover:bg-orange-700 active:bg-orange-500";
+    const orangeButtonClass = "bg-orange-500 text-white text-xl rounded-full hover:bg-orange-600 active:bg-orange-500";
 
     return (
         <div className="flex flex-col items-center justify-center h-screen bg-gradient-to-br from-blue-200 via-blue-300 to-blue-400">
